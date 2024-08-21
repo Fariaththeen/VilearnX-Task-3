@@ -10,16 +10,7 @@ This project performs sentiment analysis on a dataset of movie reviews to classi
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Feature Extraction](#feature-extraction)
-  - [Model Training](#model-training)
-  - [Model Evaluation](#model-evaluation)
-- [Visualizations](#visualizations)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 Sentiment analysis is a crucial task in natural language processing (NLP) that aims to determine the sentiment expressed in a piece of text, such as positive, negative, or neutral. This project focuses on classifying movie reviews as either positive or negative using machine learning techniques.
